@@ -3,6 +3,7 @@ package com.github.ialokim.phonefield;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.os.Build;
+import android.support.annotation.IdRes;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.AttributeSet;
@@ -27,7 +28,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Locale;
 
-import androidx.annotation.IdRes;
+
 
 /**
  * PhoneField is a custom view for phone numbers with the corresponding country flag, and it uses

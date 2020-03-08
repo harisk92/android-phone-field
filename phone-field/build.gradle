@@ -19,6 +19,7 @@ android {
 }
 
 dependencies {
+    implementation 'com.android.support:appcompat-v7:' + supportLibVersion
     implementation 'com.googlecode.libphonenumber:libphonenumber:8.10.3'
-    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'com.android.support:design:'+supportLibVersion
 }

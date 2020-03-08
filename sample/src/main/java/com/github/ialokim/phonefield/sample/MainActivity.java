@@ -1,8 +1,8 @@
 package com.github.ialokim.phonefield.sample;
 
 import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
 
+import android.support.v7.app.AppCompatActivity;
 import android.util.TypedValue;
 import android.view.View;
 import android.view.ViewGroup;
